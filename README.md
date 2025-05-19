@@ -1,5 +1,5 @@
 # RSWNet: A Deep Self-Organizing Map Network for Unsupervised Feature Learning and Clustering
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)]()
+<!-- [![Paper](https://img.shields.io/badge/Paper-PDF-red)]() -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
@@ -114,6 +114,15 @@ The architecture consists of three main components:
         Initialize cluster centers using k-means
         Joint training of reconstruction and clustering
         Duration: 10 epochs
+
+## Training Environment & System Configuration
+
+
+    CPU: Intel Core i9-13900K
+    RAM: 64 GB
+    GPU: NVIDIA GeForce RTX 4090 (24GB VRAM)
+    Framework: PyTorch
+
 
 ## Citation
 If you find our work useful, kindly consider citation:
