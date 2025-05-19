@@ -78,6 +78,7 @@ These plots help to visually assess the quality of clustering and the separation
 </table>
 
 ## Installation
+Make sure to have PyTorch installed
 ```
 git clone https://github.com/RejwanShafi25/RSWNet.git
 cd RSWNet

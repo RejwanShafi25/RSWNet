@@ -1,0 +1,24 @@
+# Deep learning & vision
+torch==2.7.0+cu126           # :contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
+torchvision==0.22.0+cu126    # :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
+
+# Dataset handling
+datasets==3.6.0              # from your pip show
+
+# Clustering & metrics
+scikit-learn==1.5.1          # :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}
+
+# Visualization
+matplotlib==3.9.2            # :contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}
+seaborn==0.13.2              # :contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}
+
+# Model introspection & graphing
+torchinfo==1.8.0             # from your pip show
+torchview==0.2.7             # from your pip show
+
+# Numerical computing
+numpy==1.26.4                # :contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}
+
+# System monitoring
+psutil==5.9.0                # :contentReference[oaicite:12]{index=12}:contentReference[oaicite:13]{index=13}
+WMI==1.5.1                   # from your pip show
